@@ -1,0 +1,13 @@
+Python - used for data processing in back end
+
+Data processing - python
+Data storing - database
+------------------------
+Decorators
+variable length argument methods(Functions)
+duck typing (dynamic typing)
+-----------------------------
+
+Function name -- snake notation for function name.
+
+        def function_name():

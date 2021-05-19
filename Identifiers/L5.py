@@ -1,0 +1,6 @@
+name = input("Enter your name : ")
+age = input("Enter age : ")
+qual = input("Enter Qualification:")
+print(name,"\n",age,"\n",qual)
+# print(age)
+# print(qual)
