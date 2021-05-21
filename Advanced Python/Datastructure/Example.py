@@ -20,5 +20,5 @@ def checkstring(string):
     print("Number Stack : ",num[::-1], "\nAlphabet Stack : ", alpha[::-1], "\nSpecial Character Stack :", special[::-1])
 
 
-
-checkstring(input("Enter a string : "))
+st = input("Enter a string : ")
+checkstring(st)
